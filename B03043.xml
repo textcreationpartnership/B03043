@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Caroli Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo septimo. At the Parliament begun at Westminster the third day of November, Anno Dom. 1640. In the 16. yeer of the reign of our most gracious soveraign Lord, Charles, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c. A subsidie granted to the King of tonnage, poundage, and other sums of money, payable upon merchandize, exported and imported.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03043</idno>
+            <idno type="STC">Wing E2310B</idno>
+            <idno type="STC">ESTC R176151</idno>
+            <idno type="EEBO-CITATION">52612411</idno>
+            <idno type="OCLC">ocm 52612411</idno>
+            <idno type="VID">179446</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179446)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2789:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Caroli Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo septimo. At the Parliament begun at Westminster the third day of November, Anno Dom. 1640. In the 16. yeer of the reign of our most gracious soveraign Lord, Charles, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c. A subsidie granted to the King of tonnage, poundage, and other sums of money, payable upon merchandize, exported and imported.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within figurative border.</note>
+                  <note>Royal arms on frontispiece; headpiece, tailpiece, initial letter.</note>
+                  <note>Imprint also appears on final leaf, with headpiece and tailpiece.</note>
+                  <note>Text of act in black letter.</note>
+                  <note>Ms. notes throughout text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tonnage fees --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179446:1"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:179446:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>
+               <figure>
+                  <p>ANNO REGNI CAROLI REGIS ANGLIae, SCOTIae, FRANCIae, &amp; HIBERNIae, DECIMO OCTAVO.</p>
+                  <p>At the Parliament begun at <hi>Westminſter,</hi> the third day of November, <hi>Anno Dom.</hi> 1640.</p>
+                  <p>In the 16. yeer of the Reign of our moſt gracious Soveraign Lord, CHARLES, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c.</p>
+                  <p>LONDON, Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſ<g ref="char:EOLhyphen"/>ſignes of JOHN BILL. 1642.</p>
+                  <p>Cum Privilegio.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:179446:2"/>
+            <!-- PDF PAGE 110 -->
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179446:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 110 -->
+            <opener>
+               <dateline>
+                  <date>ANNO XVIII. Caroli Regis.</date>
+               </dateline>
+            </opener>
+            <head>
+               <g ref="char:leaf">❧</g> A Subſidie granted to the King of Tonnage, Poundage, and other ſums of Money, payable upon Merchandize, Exported and Imported.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas an Act was made this preſent Parliament, entituled, <hi>A Subſidie granted to the King of Tonnage and Poundage, and other ſummes of Money, pay<g ref="char:EOLhyphen"/>able upon Merchandize, Ex<g ref="char:EOLhyphen"/>ported and Imported,</hi> whereby it is declared and enacted, That it is and hath been the ancient right of the Subiectss of this Realm, That no Subſidie, Cuſtom, Impoſt or other char<g ref="char:EOLhyphen"/>ges whatſoever, ought or may be laid or impoſed upon any Merchandize, exported or imported, by Subjects, Demzens, or Aliens, without common conſent in Parliament: And the ſaid Commons then taking into their conſiderations the great perill that might have enſued, by not
+<pb facs="tcp:179446:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 111 -->
+guarding of the ſeas, and other inconveniencies which might have followed, in caſe the ſaid ſums of money in the ſaid Act mentioned, ſhould not have been granted to your Majeſtie, as in and by the ſaid Act is expreſſed, Did therefore by the advice of the Lords in this preſent Parliament aſſembled, and by the au<g ref="char:EOLhyphen"/>thority of the ſame, give and grant unto your Majeſtie, our liege Lord and Soveraign, one Subſidie of Tonnage, and one other Subſidie of Poundage, in ſuch manner, and according to ſuch rates as in the ſaid Act is expreſſed; To have, take, per<g ref="char:EOLhyphen"/>ceive and enjoy the Subſidies, and other ſums ſo granted by the ſaid Act, and every of them, and every part and parcell of them to your Highneſſe, from the five and twentieth day of <hi>May,</hi> 1641. unto the fifteenth day of <hi>July</hi> then next coming.</p>
+            <p>And whereas the ſaid Act being determined, One other Act of the ſame Title was likewiſe made this preſent Parliament with like Declaration of the Right of the Subjects of this Your Realm: By which ſecond Act Your ſaid Commons did by the like advice of the Lords in this preſent Parliament aſ<g ref="char:EOLhyphen"/>ſembled, and by the Authority of the ſame, give and grant to your Majeſtie one Subſidie of Tonnage, and one other Sub<g ref="char:EOLhyphen"/>ſidie of Poundage, in ſuch manner, and according to ſuch rates, as in the ſaid laſt recited Act is ſpecified and contained; To have, take, perceive and enjoy the Subſidie, and other ſums ſo granted by the ſaid laſt recited Act, and every of them, and every part and parcell of them, to your Highneſſe, from the ſaid fifteenth day of <hi>July,</hi> 1641. unto the tenth day of <hi>Auguſt</hi> then next enſuing.</p>
+            <p>And whereas the ſaid Act being determined, One other Act of the ſame Title was likewiſe made this preſent Parliament; By which third Act, Your ſaid Commons did by the like advice of the Lords in this preſent Parliament aſſembled, and by the Authority of the ſame, give and grant to your Majeſtie one Subſidie of Tonnage, and one other Subſidie of Poundage, in ſuch manner, and according to ſuch rates, as in the ſaid laſt recited Act is ſpecified and contained; To have, take, enjoy, and perceive the ſaid Subſidies, and other ſums ſo granted by the ſaid laſt recited Act, and every of them, and every part and par<g ref="char:EOLhyphen"/>cell of them, to Your Highneſſe, from the ninth day of <hi>Auguſt,</hi> 1641. to the firſt day of <hi>December</hi> then next enſuing.</p>
+            <p>And whereas the ſaid Act being determined, one other Act of the ſame Title was likewiſe made this preſent Parlia<g ref="char:EOLhyphen"/>ment;
+<pb facs="tcp:179446:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 111 -->
+By which fourth Act your ſaid Commons did by the like advice of the Lords in this preſent Parliament aſſembled, and by the Authority of the ſame, give and grant to your Majeſtie one Subſidie of Tonnage, and one other Subſidie of Pound<g ref="char:EOLhyphen"/>age, in ſuch manner and according to ſuch rates as in the ſaid laſt recited Act is ſpecified and contained; To have, take, en<g ref="char:EOLhyphen"/>joy and perceive the ſaid Subſidies, and other ſums ſo granted by the ſaid laſt recited Act, and every of them, and every part and parcell of them to your Highneſſe, from the laſt day of <hi>November</hi> 1641. unto the firſt day of <hi>February</hi> then next en<g ref="char:EOLhyphen"/>ſuing.</p>
+            <p>And whereas the ſaid Act being determined, One other Act of the ſame Title was likewiſe made this preſent Parliament; By which fift Act, the ſaid Commons did by the like advice of the Lords in this preſent Parliament aſſembled, and by the au<g ref="char:EOLhyphen"/>thority of the ſame, give and grant unto your Majeſty one Sub<g ref="char:EOLhyphen"/>ſidie of Tonnage, and one other Subſidie of Poundage, in ſuch manner, and according to ſuch Rates, as in the ſaid laſt recited Act is ſpecified; To have, take, enjoy, and perceive the ſaid Subſidies, and other ſums ſo granted by the ſaid laſt recited Act, and every of them, and every part and parcell of them to Your Highneſſe, from the firſt day of <hi>February</hi> one thouſand ſix hundred fourty and one, unto the five and twentieth day of <hi>March</hi> then next following.</p>
+            <p>And whereas the ſaid Act being determined, one other Act of the ſame Title was likewiſe made this preſent Parliament, by which Act the ſaid Commons did by the like advice of the Lords in this preſent Parliament aſſembled, and by the Au<g ref="char:EOLhyphen"/>thority of the ſame, give and grant unto your Majeſtie one Subſidie of Tonnage, and one other Subſidie of Poundage, in ſuch manner, and according to ſuch rates as in the ſaid laſt recited Act is ſpecified; To have, take, enjoy and perceive the ſaid Subſidies, and other ſums ſo granted by the ſaid laſt re<g ref="char:EOLhyphen"/>cited Act, and every of them, and every part and parcell of them to your Highneſſe, from the four and twentieth of <hi>March</hi> 1641. unto the third day of <hi>May</hi> then next enſuing.</p>
+            <p>The ſaid Commons now likewiſe again taking into their conſideration the great perill that might enſue to this Realm, by the not guarding of the ſeas, and the other inconveniencies that might follow, in caſe the ſaid ſums of money ſhould upon the ſuddain be forborn to be paied, By and with the
+<pb facs="tcp:179446:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 112 -->
+advice and conſent of the Lords in this preſent Parliament aſ<g ref="char:EOLhyphen"/>ſembled, and by the Authority of the ſame, Do give and grant to You our Supreme Lord and Soveraign, one Subſidie called Tonnage, That is to ſay, of every Ton of Wine, that is or ſhall come into this Realm, or any Your Majeſties Dominions by way of Merchandize, the ſum of three ſhillings, and ſo after that rate; And of every Ton of ſweet Wines, as well Malme<g ref="char:EOLhyphen"/>ſie as other, that is or ſhall come into this Realm by any Mer<g ref="char:EOLhyphen"/>chant Alien, three ſhillings, and ſo after the rate over and above the three ſhillings above mentioned; And of every Awme of Rheniſh Wine that is or ſhall ſo come in, twelve pence.</p>
+            <p>And alſo one other Subſidie called Poundage, That is to ſay, of all manner of Goods, and Merchandize of every Merchant, Denizen and Alien, carried or to be carried out of this Realm, or any Your Majeſties Dominions, or to be brought into the ſame by way of Merchandize, of the value of every twenty ſhillings of the ſame goods and Merchandize, twelve pence, and ſo after the Rate; And of every twenty ſhillings value of Tynne and Pewter veſſell carried out of this Realm by every or any Mer<g ref="char:EOLhyphen"/>chant Alien, twelve pence, over and above the twelve pence aforeſaid. Except and foreprized out of this Grant of Subſidie of Poundage all manner of Woollen Cloth made or wrought, or which ſhall be made or wrought within this Realm of <hi>England,</hi> and by every or any Merchant Denizen, and not born Alien, carried or to be carried out of this Realm; And all manner of Woolls, Woolfels, Hides and backs of Leather that is or ſhall be carried out of this Realm; And all wines not before limited to pay Subſidie or Tonnage; And all manner of freſh fiſh and Beſliall coming or that ſhall come into this Realm.</p>
+            <p>And further, The ſaid Commons by the Aſſent, Advice, and Authority aforeſaid, Do give and grant unto You our ſaid Liege Lord our Soveraign, for the cauſes aforeſaid, one other Sub<g ref="char:EOLhyphen"/>ſidie, that is to ſay, of every Merchant, born Denizen, of, and for every ſack of Wooll, thirtie three ſhillings four pence; And of, and for every two hundred and fourty Woolfels, thirtie three ſhillings four pence; And of, and for every Laſt of Hides and Backs, three pounds ſix ſhillings &amp; eight pence, and ſo after the ſame rate, for every leſſe or greater quantitie for every the ſame Merchandize more or leſſe; And of every Merchant-ſtranger not born Denizen, of, and for every ſack of Wooll, three pounds ſix ſhillings eight pence; And of, and for every
+<pb facs="tcp:179446:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 112 -->
+two hundred fourtie Woolfels, three pounds ſix ſhillings eight pence; And for every Laſt of Hides and Backs, three pounds thirteen ſhillings four pence; And ſo of all the ſaid Woolls, Woolfels, Hides and Backs, and every of them after the rate; And ſuch other ſums of money as have been impoſed upon any Merchandize, either outward or inward, by pretext of any Let<g ref="char:EOLhyphen"/>ters Patents, Commiſſion under the great Seal of <hi>England,</hi> or privie Seal, ſince the firſt yeer of the Reign of his late Maje<g ref="char:EOLhyphen"/>ſty King <hi>James</hi> of bleſſed memorie, And which were continued and payed at the beginning of this preſent Parliament, To have, take, enjoy and perceive the Subſidies aforeſaid, and other the aforementioned ſums, and every of them, and every part and parcell of them, to You our ſaid Leige Lord and Soveraign, from the ſecond day of <hi>May,</hi> 1642. to the ſecond day of <hi>July</hi> then next enſuing.</p>
+            <p>And be it further enacted by the Authority aforeſaid, That the ſaid Subſidie of Tonnage, Poundage, Wooll, and other ſums of money ſhall be taken and employed during the time aforeſaid, to and for the intents and purpoſes, and upon and under ſuch Proviſions, Clauſes, and Limitations as are con<g ref="char:EOLhyphen"/>tained in one Act made in Parliament, held in the firſt yeer of the reign of His ſaid late Majeſtie King <hi>James</hi> of bleſſed me<g ref="char:EOLhyphen"/>mory, intituled, <hi>An Act for the granting of a Subſidie to the King of Tonnage, Poundage, Woolls, &amp;c.</hi>
+            </p>
+            <p>And it is hereby declared, That the ſums of Money hereby granted vpon Merchandize, are not the Rates intended to be continued, but the ſame to be hereafter in this preſent Parlia<g ref="char:EOLhyphen"/>ment aliered in ſuch manner as ſhall be thought fit.</p>
+            <p>And whereas in the before mentioned Act made the firſt yeer of King <hi>James,</hi> there is this clauſe, That if any Wines, Goods, or other Merchandize, whereof any the Subſidies in the ſaid Act mentioned ſhall truly become due, ſhould at any time after<g ref="char:EOLhyphen"/>ward be Shipped, or put into any Boat or other Veſſell, to the intent to be carried into the parts beyond the Seas, or elſe to be brought from the parts beyond the Seas into any Port of this Realm, or other His ſaid Majeſties Dominions, by way of Merchandize, and unſhipped to be laid on Land, the Subſidie, Cuſtome, and other duties, due, or to be due for the ſame, not paid or lawfully tendered to the Collector thereof, or his Deputy, with the conſent and agreement of the Comptroller and Sur<g ref="char:EOLhyphen"/>veyer there, or one of them at the leaſt, not agreed with for the
+<pb facs="tcp:179446:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 113 -->
+ſame in the Cuſtome houſe, according to the true meaning of the ſaid Act, That then from a day mentioned in the ſaid Act, all the ſaid Wine, Goods, and Merchandize whatſoever, ſhould be forfeited to his then Majeſtie, during the time in the Act mentioned; The one Moytie of the rate thereof to the King, and the other Moytie to him or them that ſhould ſeize the ſame, or ſue for the ſame; It is hereby Enacted, that the ſaid pe<g ref="char:EOLhyphen"/>naltie and forfeiture, ſhall not enſue to any perſon or perſons for the ſhipping or unſhipping of any Goods or Merchandize whereupon Tonnage, Poundage, or any ſums of Money are payable by this Act, untill notice ſhall be given of this Act, penaltie and forfeiture, by Proclamation, where the ſaid Goods are, or ought to be entred, unleſſe after ſuch notice they ſhall refuſe to compound for ſuch Goods and Merchandize.</p>
+            <p>And it is further Enacted, That any Cuſtomer, or Comptroller, or any other Officer or perſon, that after the determination of this Grant ſhall take, or receive, or cauſe to be taken, or recei<g ref="char:EOLhyphen"/>ved the ſaid Subſidy, ſums of Money, or any Impoſition upon Merchandize whatſoever, exported, or imported, except the ſame by Grant in Parliament be due, or by ſuch Grant ſhall be<g ref="char:EOLhyphen"/>come due, or have been continually payed from the end of the Reign of the late King <hi>Edward</hi> the third, untill the beginning of the Reign of the late Queen <hi>Mary,</hi> ſhall incurre and ſuſtain the pains, penalties, and forfeitures, ordained, and provided by the Statute of Proviſion and Premunire, made in the ſixteenth yeer of King <hi>Richard</hi> the ſecond; And ſhall alſo from henceforth be diſabled during his life, to ſue, or implead any perſon, in any Action reall, mixt, or perſonall, or in any Court whatſoever.</p>
+            <p>Provided alwaies, That this Act ſhall not extend to any Im<g ref="char:EOLhyphen"/>poſition or charge upon any ſort of Tobacco of Engliſh Planta<g ref="char:EOLhyphen"/>tion; but that the ſaid Tobacco ſhall be charged onely with the payment of two pence in the pound, and no more.</p>
+            <p>Provided alwaies, and it is further Enacted, That this Act ſhall not extend, or be conſtrued to charge any perſon, or perſons with an Impoſition or Charge of late yeers impoſed upon Wool<g ref="char:EOLhyphen"/>len Cloth, and Woollen Commodities known by the name of the pretermitted Cuſtoms.</p>
+            <p>Provided alſo, And be it further Enacted by the authority aforeſaid, That all Grants, and Letters Patents under the Great Seal, Privie Seal or otherwiſe, contayning the Grants of any Subſidies, or Impoſts heretofore made or granted to any per<g ref="char:EOLhyphen"/>ſon
+<pb facs="tcp:179446:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 113 -->
+or perſons, for, or in reſpect of the tranſportation, exportation, or importation of any Goods, or Merchandize pretended to be due, or payable to Your Majeſty; Or by any ſuch Erants, or Letters Patents, Covenanted to be enjoyed, or had out of ſuch Subſidies, Impoſts, or Payments as hereafter ſhould be ſetled by Parliament or otherwiſe; And all Letters Patents, or other Grants of the Collection of any Impoſitions heretofore ſet, with<g ref="char:EOLhyphen"/>out conſent in Parliament made or granted to any perſon what<g ref="char:EOLhyphen"/>ſoever; And alſo all Penſions, Aſſignations of Moneys, and all other payments whatſoever charged, or hereafter to be charged on this Subſidy by this Act, other then for the uſes before in this Act intended, ſhall be from henceforth utterly void.</p>
+            <p>Provided, that if any Merchant ſhall export any Goods and Merchandize which have been formerly imported, and the Cuſtoms, and other duties for the ſame truely paid, That in ſuch caſe the ſame allowance ſhall be made unto every ſuch Merchant, as have been formerly by vertue of your Highneſſe Privie Seal.</p>
+            <p>Provided alſo, That of all Tobacco of the Engliſh Planta<g ref="char:EOLhyphen"/>tions, for which every Merchant hath, or ſhall duely pay the Subſidie of two pence the pound weight for the ſame at the Importation thereof, allowance ſhall be made unto every ſuch Merchant tranſporting the ſame, one peny for every pound weight, upon Certificate of the Officer, and Oath of the partie, that the Subſidie for the ſaid Tobacco was duely paid at the Importation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:179446:6"/>
+            <!-- PDF PAGE 114 -->
+            <p>LONDON: Printed by Robert Barker, Printer to the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Majeſtie: And by the Aſ<g ref="char:EOLhyphen"/>ſignes of John Bill.</p>
+            <p>1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
